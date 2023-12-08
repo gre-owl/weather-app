@@ -78,7 +78,7 @@ const CityName = document.getElementById("searchtext").value;
 
 
 
-fetch(`http://api.openweathermap.org/data/2.5/weather?q=${CityName}&units=metric&appid=3a48117ec5e1b1ec8046987887f6d8bb`)
+fetch(`https://api.openweathermap.org/data/2.5/weather?q=${CityName}&units=metric&appid=3a48117ec5e1b1ec8046987887f6d8bb`)
 .then(function(res){
     console.log(res);
     return(res.json());
