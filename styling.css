@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+}
+
+.disp{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 500px;
+}
+
+p{
+    font-weight: bold;
+}
