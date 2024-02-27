@@ -1,5 +1,6 @@
 # Weather App
 This is a basic weather app using HTML, CSS, Bootstrap & Vanilla JS.
+![image](https://github.com/gre-owl/weather-app/assets/97501735/7bfbaa20-04be-49dd-9327-190dc41a5dc7)
 
 
 ## Bootstrap CDN
